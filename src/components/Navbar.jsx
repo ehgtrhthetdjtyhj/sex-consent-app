@@ -10,6 +10,7 @@ const Navbar = () => {
           <Link to="/" className="hover:text-indigo-200 transition-colors">首页</Link>
           <Link to="/create-consent" className="hover:text-indigo-200 transition-colors">创建协议</Link>
           <Link to="/verify" className="hover:text-indigo-200 transition-colors">验证协议</Link>
+          <Link to="https://github.com/muzihuaner/sex-consent-app" className="hover:text-indigo-200 transition-colors">Github</Link>
         </div>
       </div>
     </nav>
