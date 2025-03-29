@@ -23,7 +23,7 @@
 
 1. 克隆仓库
    ```bash
-   git clone https://github.com/muzihuaner/consent-app.git
+   git clone https://github.com/muzihuaner/sex-consent-app.git
    cd consent-app
    ```
 
