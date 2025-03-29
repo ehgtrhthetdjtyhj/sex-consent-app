@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color: #4f46e5;
+  --secondary-color: #a5b4fc;
+  --accent-color: #818cf8;
+  --error-color: #ef4444;
+  --success-color: #10b981;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.signature-pad-container {
+  border: 1px solid #e5e7eb;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  width: 100%;
+  height: 200px;
+}
+
+.signature-pad {
+  width: 100%;
+  height: 100%;
+}
+
+.watermark {
+  position: absolute;
+  opacity: 0.15;
+  pointer-events: none;
+  z-index: 10;
+  transform: rotate(-45deg);
+  color: #666;
+  font-size: 1.5rem;
+  white-space: nowrap;
+} 
